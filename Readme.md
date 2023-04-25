@@ -74,8 +74,7 @@ private void SearchInMatrix(int jumpTo, int walkTo, int lengthWord, ref Dictiona
                 List<int> history = new List<int>();
 
                 for (int j = 0; j < walkTo; j++)
-                {
-                    //char currentChar = isHorizontalSearch ? _matrix[i][j]:_matrix[j][i];
+                {                    
                     char currentChar = GetMatrixChar(i, j, direction);
                     accumulation.Append(currentChar);
                     history.Add(j);
