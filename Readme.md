@@ -12,15 +12,15 @@ Other aspects to consider are:
 ```
 public class WordFinder
 {
-		public WordFinder(IEnumerable<string> matrix)
-		{
+	public WordFinder(IEnumerable<string> matrix)
+	{
 		
-		}
+	}
 
-		public IEnumerable<string> Find(IEnumerable<string> wordstream)
-		{
+	public IEnumerable<string> Find(IEnumerable<string> wordstream)
+	{
 		
-		}
+	}
 }
 ```
 ## Analysis and development
@@ -31,10 +31,10 @@ In this image we can see how the words are organized in the Trie structure
 
 After that I started to develop the main WordFinder class taking into account the requirements of the application. The WordFinder class has 4 properties that are initialized in the constructor:
 ```
- 	private readonly char[][] _matrix;
-     private readonly int _numMatrixRows;
-     private readonly int _numMatrixColumns;
-     private readonly Trie _trie;
+ private readonly char[][] _matrix;
+ private readonly int _numMatrixRows;
+ private readonly int _numMatrixColumns;
+ private readonly Trie _trie;
 ```
 - _matrix: Two-dimensional array of characters that will contain the matrix itself, represented as characters so that we can traverse it character by character.
 - _numMatrixRows and _numMatrixColumns: These are properties that we will use to traverse the matrix later.
