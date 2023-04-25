@@ -1,0 +1,14 @@
+C:\Users\fredd\OneDrive\Escritorio\mi tarea\WordFinderApp\WordFinderApp\bin\Debug\netcoreapp3.1\WordFinderApp.exe
+C:\Users\fredd\OneDrive\Escritorio\mi tarea\WordFinderApp\WordFinderApp\bin\Debug\netcoreapp3.1\WordFinderApp.deps.json
+C:\Users\fredd\OneDrive\Escritorio\mi tarea\WordFinderApp\WordFinderApp\bin\Debug\netcoreapp3.1\WordFinderApp.runtimeconfig.json
+C:\Users\fredd\OneDrive\Escritorio\mi tarea\WordFinderApp\WordFinderApp\bin\Debug\netcoreapp3.1\WordFinderApp.runtimeconfig.dev.json
+C:\Users\fredd\OneDrive\Escritorio\mi tarea\WordFinderApp\WordFinderApp\bin\Debug\netcoreapp3.1\WordFinderApp.dll
+C:\Users\fredd\OneDrive\Escritorio\mi tarea\WordFinderApp\WordFinderApp\bin\Debug\netcoreapp3.1\WordFinderApp.pdb
+C:\Users\fredd\OneDrive\Escritorio\mi tarea\WordFinderApp\WordFinderApp\obj\Debug\netcoreapp3.1\WordFinderApp.csproj.AssemblyReference.cache
+C:\Users\fredd\OneDrive\Escritorio\mi tarea\WordFinderApp\WordFinderApp\obj\Debug\netcoreapp3.1\WordFinderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredd\OneDrive\Escritorio\mi tarea\WordFinderApp\WordFinderApp\obj\Debug\netcoreapp3.1\WordFinderApp.AssemblyInfoInputs.cache
+C:\Users\fredd\OneDrive\Escritorio\mi tarea\WordFinderApp\WordFinderApp\obj\Debug\netcoreapp3.1\WordFinderApp.AssemblyInfo.cs
+C:\Users\fredd\OneDrive\Escritorio\mi tarea\WordFinderApp\WordFinderApp\obj\Debug\netcoreapp3.1\WordFinderApp.csproj.CoreCompileInputs.cache
+C:\Users\fredd\OneDrive\Escritorio\mi tarea\WordFinderApp\WordFinderApp\obj\Debug\netcoreapp3.1\WordFinderApp.dll
+C:\Users\fredd\OneDrive\Escritorio\mi tarea\WordFinderApp\WordFinderApp\obj\Debug\netcoreapp3.1\WordFinderApp.pdb
+C:\Users\fredd\OneDrive\Escritorio\mi tarea\WordFinderApp\WordFinderApp\obj\Debug\netcoreapp3.1\WordFinderApp.genruntimeconfig.cache
